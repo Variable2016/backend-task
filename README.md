@@ -13,7 +13,7 @@ To run this project in the development mode, you'll need to have a basic environ
 **Cloning the Repository**
 
 ```
-$ https://github.com/yusadolat/backend-task
+$ https://github.com/Variable2016/backend-task
 
 $ cd backend-task
 ```
